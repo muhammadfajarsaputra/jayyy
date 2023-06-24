@@ -1,0 +1,25 @@
+body {
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
+  /* Add other dark mode styles here */
+/* Light mode styles */
+body {
+    /* margin: 20px;
+    padding: 20px; */
+    background-color: aliceblue;
+    color: #333333;
+    transition: .5s;
+  }
+  
+  /* Dark mode styles */
+  body.dark-mode {
+    background-color: #333333;
+    color: #ffffff;
+    transition: .5s;
+  }
+a{
+    text-decoration-color: black;
+}
+    
